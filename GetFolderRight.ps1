@@ -4,7 +4,6 @@
 $path = "C:\XXX"
 $pathDepth = 0
 
-
 #Recuperer tous les dossiers en fonction de la profondeur et du chemin choisi
 $FolderPath = Get-ChildItem -Directory -Path $path  -Recurse -Depth $pathDepth -Force
 
