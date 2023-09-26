@@ -3,7 +3,7 @@
 
 ### GetGroupMembers ###
 "GetGroupMembers.ps1", permet de sortir un fichier "GroupMembers.txt" à la racine de C:.
-Le script sort les membres de chaque groupe pour l'OU ciblé (Y'a encore de quoi faire pour améliorer l'output imo).
+Le script sort les membres de chaque groupe pour une OU spécifique (Y'a encore de quoi faire pour améliorer l'output imo).
 Une variable modifiable :
 	- "OUFolder", ligne 4
 
