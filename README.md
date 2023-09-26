@@ -7,11 +7,11 @@ Le script sort les membres de chaque groupe où il y a plus de 1 membre pour une
 Une variable modifiable :
 	- "OUFolder", ligne 4
 
-##GetAllGroupMembers
+### [GetAllGroupMembers](GetAllGroupMembers.ps1) ###
 "GetAllGroupMembers.ps1", permet de sortir un fichier "AllGroupMembers.txt" à la racine de C.
 Le script sort les membres de chaque groupe où il y a plus de 1 membre
 
-##GetFolderRight
+### [GetFolderRight](GetFolderRight.ps1) ###
 "GetFolderRight.ps1", permet de sortir un fichier "FolderRight.txt" à la racine de C.
 Le script sort les droits d'utilisation du dossier (et de ses sous-dosssiers si besoin) ciblé .
 2 variables sont modifiables: 
