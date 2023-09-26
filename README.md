@@ -1,7 +1,7 @@
 # PowershellScripts
 
 
-##[GetGroupMembers](GetGroupMembers.ps1)
+### [GetGroupMembers](GetGroupMembers.ps1) ###
 "GetGroupMembers.ps1", permet de sortir un fichier "GroupMembers.txt" à la racine de C.
 Le script sort les membres de chaque groupe où il y a plus de 1 membre pour une OU spécifique.
 Une variable modifiable :
