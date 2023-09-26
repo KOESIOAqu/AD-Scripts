@@ -3,13 +3,13 @@
 
 ### [GetGroupMembers](GetGroupMembers.ps1) ###
 "GetGroupMembers.ps1", permet de sortir un fichier "GroupMembers.txt" à la racine de C.
-Le script sort les membres de chaque groupe où il y a plus de 1 membre pour une OU spécifique.
+Le script sort les membres de chaque groupe possédant plus de 1 membre pour une OU (ET UNIQUEMENT UNE OU) spécifique.
 Une variable modifiable :
 	- "OUFolder", ligne 4
 
 ### [GetAllGroupMembers](GetAllGroupMembers.ps1) ###
 "GetAllGroupMembers.ps1", permet de sortir un fichier "AllGroupMembers.txt" à la racine de C.
-Le script sort les membres de chaque groupe où il y a plus de 1 membre
+Le script sort les membres de chaque groupe possédant de 1 membre
 
 ### [GetFolderRight](GetFolderRight.ps1) ###
 "GetFolderRight.ps1", permet de sortir un fichier "FolderRight.txt" à la racine de C.
